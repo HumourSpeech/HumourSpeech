@@ -25,7 +25,6 @@
 - 📚 Currently learning **DSA, advanced NLP & LLM workflows**  
 - 💻 Regularly practicing on **LeetCode** & **GeeksforGeeks**  
 - ✨ I enjoy **designing, exploring AI tools, and reading about consciousness & spirituality**
-- 😌 Fun fact : I enjoy playing chess with blitz rating 1350 and playing musical instruments like **Trumpet**, **Flute**.
 
 ---
 
@@ -64,45 +63,18 @@
 ### 🏅 Achievements & Courseworks :
 
 - 🥈 **Secured a 120th rank (top 5%) among 2000+ teams in the Zelestra x AWS ML Ascend Challenge.**   
-- 🏆 **Active on Codeforces (600+ rating), regularly tackling algorithmic challenges and improving proficiency in
+- 🏆 **Active on Codeforces (900+ rating), regularly tackling algorithmic challenges and improving proficiency in
 data structures and algorithms. 
 - 🔥 Completed **160-day coding challenge** on GeeksforGeeks  
  
-
 ---
 
-### 🎵 Beyond Code
+### Beyond Code
 
-- NSS team member, **College Music Club** (2023–2024)  🎸 
+- Maintained a rapid rating of 1150+ on Chess.com and a blitz rating of 1350+ on Lichess
+- All India Sainik School Central Zone Football Championship 1st position and InterZone 3rd position.
 - Commanded the Republic Day Parade, managing and synchronizing a contingent of over 100 participants,
 reflecting exceptional leadership, organizational abilities, and drill mastery. :contentReference[oaicite:5]{index=5}  
-
----
-
-### 🔥 My GitHub Stats
-
-<!-- <div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=riapandey05&theme=dark&hide_border=false&border_radius=5" height="180" alt="streak graph" />
-
-  <br/>
-
-
-
-</div> -->
-
----
-
-### 🐍 Contribution Snake
-
-<!-- <div align="center">
-
-  ![GitHub Snake](https://raw.githubusercontent.com/HumourSpeech/HumourSpeech/output/github-contribution-grid-snake.svg)
-
-</div>
-
-</div> -->
-<!-- </div> -->
 
 ---
 
