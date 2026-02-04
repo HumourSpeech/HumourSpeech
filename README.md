@@ -61,32 +61,6 @@
 
 </div>
 
----
-
-### 🚀 Featured Projects
-
-> Check my pinned repos for full details & code.
-
-- 🔊 **Voice-Activated Form Assistant for Banking (VAFA)**  
-  _Python · Hugging Face · DistilBERT · Streamlit_  
-  - Multilingual speech-to-structured-data pipeline for banking forms (Hindi/Odia/English → English).  
-  - Uses DistilBERT for entity classification and a custom Regex engine to extract values like names, phone numbers & amounts.  
-  - Deployed with Streamlit and tested with **500+ users**, achieving **F1 > 0.98**. :contentReference[oaicite:1]{index=1}  
-
-- 💬 **Network Security System**  
-  _Python · LangChain · Hugging Face · Streamlit_  
-  - Engineered a modular, ML-driven network security system capable of detecting phishing attempts, threats,
-and anomalies with a structured pipeline that improved data processing efficiency by 30%
-  - Reduces repetitive responses by ~**30%** and supports retrieval-augmented, context-aware replies. :contentReference[oaicite:2]{index=2}  
-
-- ✍️ **Next Word Predictor**  
-  _Python · TensorFlow · Keras · Streamlit_  
-  - Trained on Shakespeare’s *Hamlet* to predict the next word in a sequence.  
-  - Multi-layer LSTM with embeddings + early stopping to reduce overfitting.  
-  - Interactive Streamlit UI for live next-word prediction. :contentReference[oaicite:3]{index=3}  
-
----
-
 ### 🏅 Achievements & Courseworks :
 
 - 🥈 **Secured a 120th rank (top 5%) among 2000+ teams in the Zelestra x AWS ML Ascend Challenge.**   
